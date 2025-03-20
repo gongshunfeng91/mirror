@@ -1,1 +1,1 @@
-FROM fuqingxu/python311_texlive_ctex 
+FROM python:3.12-slim
